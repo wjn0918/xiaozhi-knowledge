@@ -1,5 +1,5 @@
-faiss-haystack
-haystack
+fastapi
+uvicorn
 sentence-transformers
 numpy
 faiss-cpu
